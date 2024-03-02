@@ -1,4 +1,4 @@
-<h1>Hello, Im Luis Borbon! <br/><a href="https://github.com/LuisBorbon">Network/Cloud Engineer</a>, <a href="https://www.linkedin.com/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/">Blogger & Udemy Course Creator</a></h1>, <a href="https://www.blogtest.com/">
+<h1>Hello, Im Luis Borbon! <br/>Network/Cloud Engineer</a> Cybersecurity Enthusiast</a> Blogger & Udemy Course Creator</a></h1>
 
 <h2>Network Automation Projects</h2>
 
