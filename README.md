@@ -1,4 +1,6 @@
-<h1>Hello, Im Luis Borbon! <br/>Network/Cloud Engineer</a> Cybersecurity Enthusiast</a> Blogger & Udemy Course Creator</a></h1>
+<h1>Hello, Im Luis Borbon! 
+<br/>
+<br/>Network/Cloud Engineer, Cybersecurity Enthusiast, Blogger & Udemy Course Creator</h1>
 
 <h2>Network Automation Projects</h2>
 
