@@ -2,7 +2,9 @@
 <br/>
 <br/>Network/Cloud Engineer, Cybersecurity Enthusiast, Blogger & Udemy Course Creator</h1>
 
-<h2>Network Automation Projects</h2>
+<h2>Only Programming</h2>
+
+<h2>Cloud Computing</h2>
 
 <h2>Cybersecurity Projects</h2>
 
